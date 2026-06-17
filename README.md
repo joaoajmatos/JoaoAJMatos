@@ -1,16 +1,16 @@
 # ⚡ João Matos
 
-**Blockchain Developer | Psychohistory Enthusiast | Decentralized Governance**
+**Full Stack Developer | Psychohistory Enthusiast | Decentralized Governance**
 
-Building the infrastructure for adaptive, transparent tech systems that transcend traditional political boundaries.
+I get shit done.
 
 ---
 
 ## 🎯 Current Focus
 
-- Agora Platform: Liquid democracy implementation with transparent voting and delegation
-- METIS: AI models for strategic decision-making and social pattern recognition
-- Synergy Ecosystem: Open framework for developing software
+- Ze: an extensible ecosystem for single user personal assistants 
+- Oz: workspace conventions and best practices for the world of agentic development
+- AI Engineering
 
 ---
 
@@ -24,15 +24,6 @@ Building the infrastructure for adaptive, transparent tech systems that transcen
 ![Profile Views](https://komarev.com/ghpvc/?username=JoaoAJMatos&color=9d4edd&style=flat-square)
 
 </div>
-
-## 📈 Research Interests
-
-- **Computational Social Choice Theory**
-- **Mechanism Design for Democratic Systems**  
-- **Post-Ideological Political Philosophy**
-- **Complexity Science in Governance**
-- **AI Alignment with Human Values**
-- **Decentralized Identity and Reputation Systems**
 
 ---
 
@@ -52,28 +43,8 @@ Building the infrastructure for adaptive, transparent tech systems that transcen
 
 ---
 
-## 🤝 Collaboration
-
-**Open to discussing:**
-- Governance protocol design and implementation
-- Post-ideological political theory and applications
-- AI systems for strategic decision-making
-- Blockchain architecture for social coordination
-
-**Currently seeking:**
-- **Political theorists** interested in post-ideological frameworks and computational social choice
-- **AI researchers** working on value alignment, social modeling, and complex systems analysis
-- **Governance practitioners** looking to implement liquid democracy systems in real organizations
-- **Foundation series enthusiasts** who believe Asimov's vision of predictive social science can be responsibly realized
-- **Complexity scientists** exploring emergent behavior in social and economic systems
-- **Philosophers of technology** interested in the intersection of AI, democracy, and human flourishing
-
----
-
 <div align="center">
 
 *"The goal is not to predict the future, but to enable it to unfold with wisdom."*
-
-**Building tomorrow's governance, today.**
 
 </div>
